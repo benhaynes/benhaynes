@@ -2,11 +2,11 @@
 
 I created Directus way back in 2004 (before smartphones or headless CMS), to make development more efficient for our agency projects. Much has changed since those early days, but my focus still remains on building the ideal platform for intuitively managing pure SQL database content.
 
-* 🐰 &nbsp; **Directus**, Project Lead & Creative Director — _Open-source platform for managing SQL database content_
-* ✨ &nbsp; **Monospace Inc**, CEO — _Managing entity of the Directus ecosystem_
-* 🗽 &nbsp; **RANGER Studio LLC**, Founding Partner — _Premium digital agency based out of NYC_
-* 📮 &nbsp; **Email**, [ben@rangerstudio.com](mailto:ben@rangerstudio.com) — _Directus and/or Agency inquiries_
-* 🐦 &nbsp; **Twitter**, [benhaynes](https://twitter.com/benhaynes) — _Feel free to give me a follow_
+* 🐰 &nbsp; **[Directus](https://directus.io)**, Project Lead & Creative Director — _Open-source platform for managing SQL database content_
+* ✨ &nbsp; **[Monospace Inc](https://monospace.io)**, CEO — _Managing entity of the Directus ecosystem_
+* 🗽 &nbsp; **[RANGER Studio LLC](https://rangerstudio.com)**, Founding Partner — _Premium digital agency based out of NYC_
+* 📮 &nbsp; **[Email](mailto:ben@rangerstudio.com)** — _Reach out regarding Directus and/or Agency inquiries_
+* 🐦 &nbsp; **[Twitter](https://twitter.com/benhaynes)** — _Feel free to give me a follow_
 
 <br>
 
