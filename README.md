@@ -1,6 +1,6 @@
 ### Heyo! I'm Ben Haynes, project lead of [Directus](https://directus.io) 👋
 
-I created Directus way back in 2004 (before smartphones or headless CMS), to make development more efficient for our agency projects. Much has changed since those early days, but my focus still remains on building the ideal platform for intuitively managing pure SQL database content.
+I created Directus way back in 2004 (before smartphones or headless CMS), to make development more efficient for my agency's projects. Much has changed since those early days, but my focus still remains on building the perfect data platform.
 
 * 🐰 &nbsp; **[Directus](https://directus.io)**, Project Lead & Creative Director — _Open-source platform for managing SQL database content_
 * ✨ &nbsp; **[Monospace Inc](https://monospace.io)**, CEO — _Managing entity of the Directus ecosystem_
