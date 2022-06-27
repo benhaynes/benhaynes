@@ -1,11 +1,10 @@
 ### Heyo! I'm Ben Haynes, project lead of [Directus](https://directus.io) 👋
 
-I created Directus way back in 2004 (before smartphones or headless CMS), to make development more efficient for my agency's projects. Much has changed since those early days, but my focus still remains on building the perfect data platform.
+I created Directus way back in 2004 to make digital project development more efficient within my agency. Much has changed since those early days, but my focus still remains on democratizing the database through our modern data platform.
 
-* 🐰 &nbsp; **[Directus](https://directus.io)**, Project Lead & Creative Director — _Open-source platform for managing SQL database content_
-* ✨ &nbsp; **[Monospace Inc](https://monospace.io)**, CEO — _Managing entity of the Directus ecosystem_
-* 🗽 &nbsp; **[RANGER Studio LLC](https://rangerstudio.com)**, Founding Partner — _Premium digital agency based out of NYC_
-* 📮 &nbsp; **[Email](mailto:ben@rangerstudio.com)** — _Reach out regarding Directus and/or Agency inquiries_
+* 🐰 &nbsp; **[Directus](https://directus.io)**, Project Lead & Creative Director — _Open-source platform for democratizing any SQL database_
+* ✨ &nbsp; **[Monospace Inc](https://monospace.io)**, CEO & Co-Founder — _Managing entity of the Directus ecosystem_
+* 📮 &nbsp; **[Email](mailto:ben@directus.io)** — _Reach out regarding Directus strategic inquiries_
 * 🐦 &nbsp; **[Twitter](https://twitter.com/benhaynes)** — _Feel free to give me a follow_
 
 <br>
